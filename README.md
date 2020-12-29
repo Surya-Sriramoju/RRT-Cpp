@@ -1,2 +1,3 @@
 # RRT-Cpp
-C++ implementation of Rapidly-Exploring Random Tress(RRT)
+C++ implementation of Rapidly-Exploring Random Trees(RRT), a path planning algorithm.
+
